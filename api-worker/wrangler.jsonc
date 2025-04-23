@@ -1,5 +1,5 @@
 {
-  "name": "pendaftaran-mahasiswa-api",
+  "name": "pendaftaran-mahasiswa",
   "compatibility_date": "2025-04-23",
   "main": "src/index.ts",
   "d1_databases": [
