@@ -1,0 +1,12 @@
+{
+  "name": "pendaftaran-mahasiswa-api",
+  "compatibility_date": "2025-04-23",
+  "main": "src/index.ts",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "pendaftaran-mahasiswa-app",
+      "database_id": "90826168-cad0-4b98-a2a4-ba5c81527f63"
+    }
+  ]
+}
